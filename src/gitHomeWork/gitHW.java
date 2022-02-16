@@ -6,6 +6,8 @@ public class gitHW {
 		// create a code that prints your name
 		
 		System.out.println("My name is Zulfiya.");
+		
+		System.out.println("My last name is Amrulayeva.");
 
 		
 	}
