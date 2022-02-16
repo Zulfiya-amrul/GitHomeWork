@@ -9,7 +9,7 @@ public class gitHW {
 		
 		System.out.println("My last name is Amrulayeva.");
 
-		
+		System.out.println("I have 7 siblings.");
 	}
 
 }
